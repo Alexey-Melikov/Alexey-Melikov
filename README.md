@@ -21,8 +21,6 @@ I have been studying web development since 2022.
  <a href="https://github.com/Alexey-Melikov">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey-Melikov&hide=c%2B%2B,c,matlab,assembly&title_color=45433d&text_color=45433d&icon_color=bd2828&bg_color=ffffff"/>
 <br />
-<br />
-<br />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexey-Melikov&show_icons=true&line_height=27&count_private=true&title_color=45433d&text_color=45433d&icon_color=6aa6f8&bg_color=ffffff" />
 
   </a>
