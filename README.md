@@ -1,6 +1,6 @@
  <div align="center">
   <h1>Hi there I am Alex👋<h1>
-   <p>⚡Frontend Developer ➰ 🌏 Russia, Saint-petersburg</p>
+   <p>Frontend Developer ➰ 🌏 Russia, Saint-petersburg</p>
  </div>
 
 I have been studying web development since 2022.
@@ -27,6 +27,6 @@ I have been studying web development since 2022.
 
 ## ♨️ CodeWars
 
-  <a href="https://www.codewars.com/users/AlexeyMelikov">
-  <img alt="codewars" src="https://www.codewars.com/users/AlexeyMelikov/badges/large">
+  <a href="https://www.codewars.com/users/Alexey-Melikov">
+  <img alt="codewars" src="https://www.codewars.com/users/Alexey-Melikov/badges/large">
 </a>
